@@ -330,6 +330,9 @@ img.banner-img {
        
         
     }
+    .menu ul li{
+        margin: 5px;
+    }
     
     .features{
         flex-direction: column-reverse;
